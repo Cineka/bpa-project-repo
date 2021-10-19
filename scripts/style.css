@@ -58,11 +58,12 @@ body {
 
   #openButton{
       color: black;
-      font-size: 25pt;
+      font-size: 35pt;
       cursor: pointer;
+      
   }
   #openButton:hover{
     color: rgba(0, 0, 0, 0.425);
-    font-size: 25pt;
+    font-size: 37pt;
     cursor:pointer;
 }
